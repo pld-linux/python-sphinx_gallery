@@ -10,7 +10,7 @@ Summary(pl.UTF-8):	Rozszerzenie Sphinksa do automatycznego generowania galerii p
 Name:		python-sphinx_gallery
 # NOTE: keep 0.4.x here; 0.5+ don't support python 2
 Version:	0.4.0
-Release:	7
+Release:	8
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/sphinx-gallery/
